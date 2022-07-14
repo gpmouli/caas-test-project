@@ -14,6 +14,10 @@ node version : 15+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Video Demo
+Desktop Version: https://drive.google.com/file/d/1Z44EsQZl2X4t45MUXXY-e3r8R4BlgmX6/view?usp=sharing
+Mobile Version: https://drive.google.com/file/d/1wHjoj1t0CsD_cKm4ltep8BKU8IgjU4KU/view?usp=sharing
+
 Find below the Screenshots for reference
 
 <img width="1145" alt="Screenshot 2022-07-14 at 3 29 38 PM" src="https://user-images.githubusercontent.com/11731027/178926754-d3bfafcd-a019-4022-9e5f-66beb6491520.png">
