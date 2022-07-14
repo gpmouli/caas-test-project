@@ -1,0 +1,23 @@
+.cardsMain {
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    .firstBtn {
+        text-align: left;
+        float: left;
+    }
+    .secondBtn {
+        text-align: right;
+        background-color: #c4006b;
+        border-color: #c4006b;
+        float: right;
+        &:hover {
+            background-color: #8f0451;
+            border-color: #8f0451;
+        }
+        &:focus {
+            background-color: #8f0451;
+            border-color: #8f0451;
+        }
+    }
+}
